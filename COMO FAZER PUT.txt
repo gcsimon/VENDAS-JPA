@@ -1,0 +1,2 @@
+
+curl -i -X POST  http://localhost:1336/vendas/2/2/10
